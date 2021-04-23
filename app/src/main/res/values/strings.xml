@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercicio_Coxinha</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="coxinha">Coxinha</string>
+    <string name="snacks">Petiscos</string>
+    <string name="drinks">Bebidas</string>
+</resources>
